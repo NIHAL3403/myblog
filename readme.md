@@ -7,9 +7,16 @@ Welcome to My Tours Personal Blog! This blog showcases detailed experiences, his
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [License](#license)
+
+## Live Deployment
+```sh
+https://main--my-karnatakablog.netlify.app
+```
+
 
 ## Project Overview
 The My Tours Personal Blog is designed to share detailed articles, travel tips, and personal reflections on various heritage sites in Karnataka. The blog includes:
@@ -64,3 +71,39 @@ cd my-tours-blog
 **Footer**
 
 <img src="images/footer.png" alt="footer">
+
+## Usage
+
+Open index.html in a web browser to view the blog.
+Navigate through different sections using the navigation bar.
+Read blog posts, view images, and watch videos.
+Learn more about the author in the "About Me" section.
+Use the contact form to send a message.
+
+## File Structure
+
+```sh
+my-tours-blog/
+├── index.html
+├── styles.css
+└── README.md
+
+```
+
+index.html: Contains the HTML structure of the blog.
+styles.css: Contains the CSS styles for the blog.
+README.md: This README file.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Authors
+
+Poorna Chandra Tejashwi
+For any inquiries or issues, feel free to contact:
+
+Email: nihalhanumanthaiah@gmail.com
+Instagram: @p.c.t.n
+Facebook: Poorna Chandra Tejashwi
+Enjoy exploring the My Tours Personal Blog!
